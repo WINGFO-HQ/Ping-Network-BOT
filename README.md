@@ -41,7 +41,7 @@ This Node.js application monitors the status and events for multiple accounts fr
     * Repeat for each account if you have multiple.
 
 4.  **Configure User IDs:**
-    * In the root of your project directory (e.g., `websocket-monitor`), create a file named `data.txt`.
+    * Edit file named `data.txt`.
     * Add each User ID you obtained to this file, with each User ID on a new line. For example:
         ```
         1234
