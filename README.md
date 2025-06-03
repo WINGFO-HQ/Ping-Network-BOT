@@ -31,6 +31,7 @@ This Node.js application monitors the status and events for multiple accounts fr
 
 3.  **Get Your User ID(s):**
     * Install the [Ping Network VPN extension](https://chromewebstore.google.com/detail/ping-network-vpn/geeedmdpncfeomhgbjeafcahepjelimg).
+    * Enter the code MMWJ4N in the extension to get a 10% boost.
     * Open the extension's pop-up.
     * Right-click on the pop-up and select "Inspect" (or press F12). This will open the Developer Tools.
     * Go to the "Network" tab in the Developer Tools.
@@ -47,9 +48,6 @@ This Node.js application monitors the status and events for multiple accounts fr
         1234
         1234
         ```
-
-5.  **Boost Your Extension:**
-    Enter the code `MMWJ4N` in the extension to get a 10% boost.
 
 ## Running the Monitor 🏃‍♂️
 
