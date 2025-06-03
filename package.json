@@ -1,0 +1,27 @@
+{
+  "name": "ping-network-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "dev": "nodemon src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WINGFO-HQ/Ping-Network-BOT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/WINGFO-HQ/Ping-Network-BOT/issues"
+  },
+  "homepage": "https://github.com/WINGFO-HQ/Ping-Network-BOT#readme",
+  "dependencies": {
+    "cli-table3": "^0.6.5",
+    "nodemon": "^3.1.10",
+    "ws": "^8.18.2"
+  }
+}
